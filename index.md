@@ -10,7 +10,7 @@
       <p><b>地址：河北省廊坊市
 邮编：062453</b></p >
     </td>
-    <td width="25%">
+    <td width="25%"
    <img src="1(1).jpg" width="100%">
     </td>
   </tr>
